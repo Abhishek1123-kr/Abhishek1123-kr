@@ -40,20 +40,32 @@
 
 ---
 
-### 🧐 **About Me**
+### 🧐 About Me
 
-- 🎓 **CSE Student** at University Vadodara, India.
-- 💻 Specialized in **Python, Java**, and **Full Stack Development**.
-- ☁️ Passionate about **Cloud (AWS/Azure)** and **DevOps pipelines**.
-- 🛠 Currently experimenting with **Real-time Socket.io apps** and **Linux Security**.
-- 🤖 Integrating **AI Tools** into developer workflows to boost productivity.
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-<br><br>
----
+<table>
+<tr>
+<td width="65%">
 
-### 🚀 **Technical Arsenal**
+- 🎓 **CSE Student** at University Vadodara, India  
+- 💻 Specialized in **Python, Java**, and **Full Stack Development**  
+- ☁️ Passionate about **Cloud (AWS/Azure)** and **DevOps pipelines**  
+- 🛠 Currently experimenting with **Real-time Socket.io apps** and **Linux Security**  
+- 🤖 Integrating **AI Tools** into developer workflows to boost productivity  
 
-<table align="center">
+</td>
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
+
+</td>
+</tr>
+
+</table>
+
+
+### 🚀 **Technical Arsenal** 
+
+<table align="left">
   <tr>
     <td align="center" width="100"><b>Languages</b></td>
     <td align="center">
@@ -79,7 +91,13 @@
     </td>
   </tr>
 </table>
+<td width=40"%" align="right">
 
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+<br><br>
+
+</td>
+<br/>
 **Other Tools:** PocketBase, Socket.io, Wireshark, Cisco Packet Tracer, Adobe Lightroom, Canva.
 
 ---
@@ -95,6 +113,7 @@
 ### 📊 **GitHub Analytics**
 
 <div align="center">
+  
   <img src="https://github.com/Abhishek1123-kr/Abhishek1123-kr/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
   
   <br/><br/>
