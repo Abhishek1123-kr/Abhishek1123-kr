@@ -97,7 +97,7 @@
 <br><br>
 
 </td>
-<br/>
+<br/><br/>
 **Other Tools:** PocketBase, Socket.io, Wireshark, Cisco Packet Tracer, Adobe Lightroom, Canva.
 
 ---
