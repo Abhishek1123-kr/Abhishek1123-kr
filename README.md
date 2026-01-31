@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=800&lines=Hey%2C+I'm+%3CYour+Name%2F%3E;Full-Stack+Python+Developer;Flask+%7C+Django+%7C+JavaScript+Enthusiast;Building+real-time+web+apps+and+chat+systems;Always+learning+%26+shipping+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=800&lines=Hey%2C+I'm+%3CABHISHEK+KUMAR%2F%3E;Full-Stack+Python+Developer;Flask+%7C+Django+%7C+JavaScript+Enthusiast;Building+real-time+web+apps+and+chat+systems;Always+learning+%26+shipping+projects" alt="Typing SVG" />
 </p>
 
 <!-- SHORT INTRO -->
