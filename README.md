@@ -67,41 +67,50 @@
 </table>
 
 
-### 🚀 **Technical Arsenal** 
+<table>
+<tr>
+<td width="75%" valign="top">
 
-<table align="left">
+<table>
   <tr>
-    <td align="center" width="100"><b>Languages</b></td>
+    <td align="center" width="120"><b>Languages</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,powershell" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="100"><b>Frameworks</b></td>
+    <td align="center" width="120"><b>Frameworks</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,react,vite,bootstrap,flutter" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="100"><b>Cloud & DB</b></td>
+    <td align="center" width="120"><b>Cloud & DB</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,supabase,mysql,sqlite,netlify,vercel,docker" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="100"><b>Tools & AI</b></td>
+    <td align="center" width="120"><b>Tools & AI</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,pycharm,postman,figma,arduino" />
     </td>
   </tr>
 </table>
 
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="160">
-<br><br><br>
-
-<br/><br/>
 **Other Tools:** PocketBase, Socket.io, Wireshark, Cisco Packet Tracer, Adobe Lightroom, Canva.
+
+</td>
+
+<td width="25%" align="center" valign="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="160"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
