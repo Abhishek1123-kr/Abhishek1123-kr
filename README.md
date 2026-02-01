@@ -14,22 +14,22 @@
   </h3>
 
   <p>
-    <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <a href="www.linkedin.com/in/abhishek-kumar-631171317" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="YOUR_X_TWITTER_URL" target="_blank">
+    <a href="https://x.com/abhishek_k16108" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
+    <a href="mailto:ABHISHEKKUMAR7465AK@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="YOUR_LEETCODE_URL" target="_blank">
+    <a href="https://leetcode.com/u/ABHISHEKKR5958/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
     </a>
-    <a href="YOUR_HACKERRANK_URL" target="_blank">
+    <a href="https://www.hackerrank.com/profile/Abhishek1123" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
     </a>
-    <a href="YOUR_CODECHEF_URL" target="_blank">
+    <a href="https://www.codechef.com/users/abhishek_7465" target="_blank">
       <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
     </a>
   </p>
