@@ -50,10 +50,10 @@
 <tr>
 <td width="65%">
 
-- 🎓 **CSE Student** at University Vadodara, India  
+- 🎓 **CSE Student** at Parul University Vadodara, India  
 - 💻 Specialized in **Python, Java**, and **Full Stack Development**  
 - ☁️ Passionate about **Cloud (AWS/Azure)** and **DevOps pipelines**  
-- 🛠 Currently experimenting with **Real-time Socket.io apps** and **Linux Security**  
+- 🛠 Currently experimenting with **StudyHUb apps** and **Linux Security**  
 - 🤖 Integrating **AI Tools** into developer workflows to boost productivity  
 
 </td>
