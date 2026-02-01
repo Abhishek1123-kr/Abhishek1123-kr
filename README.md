@@ -14,7 +14,7 @@
   </h3>
 
   <p>
-    <a href="www.linkedin.com/in/abhishek-kumar-631171317" target="_blank">
+    <a href="https://www.linkedin.com/in/abhishek-kumar-631171317/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://x.com/abhishek_k16108" target="_blank">
