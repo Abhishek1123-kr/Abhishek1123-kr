@@ -15,7 +15,7 @@
 
   <p>
     <a href="YOUR_LINKEDIN_URL" target="_blank">
-      <img src="https://img.shields.io/badge/Linkedin -000001?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="YOUR_X_TWITTER_URL" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
