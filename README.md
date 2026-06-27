@@ -140,8 +140,7 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek1123-kr&theme=tokyonight&hide_border=true" alt="Streak" />
   <p align="center">
-<img src="https://komarev.com/ghpvc/?username=atul-upadhyay-7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+
 </div>
 
 ---
