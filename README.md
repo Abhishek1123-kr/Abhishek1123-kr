@@ -133,15 +133,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek1123-kr&theme=tokyonight" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek1123-kr&theme=tokyonight" />
+  
 
   
   <br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek1123-kr&theme=tokyonight&hide_border=true" alt="Streak" />
+  <p align="center">
+<img src="https://komarev.com/ghpvc/?username=atul-upadhyay-7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 </div>
 
 ---
 
 <div align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
